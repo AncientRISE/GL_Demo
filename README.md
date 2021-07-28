@@ -1,2 +1,2 @@
-# GL_Demo
+# gl_Demo
 This is TEST DEMO FILE...
